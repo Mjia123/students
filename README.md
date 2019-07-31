@@ -1,2 +1,2 @@
-# students
-Student management system
+# schoolCRM
+hello world
